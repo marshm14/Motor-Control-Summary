@@ -1,5 +1,5 @@
 # Motor-Control-Summary
-Aiming to finish anything about motor control with MATLAB
+Aiming to finish anything about motor control with MATLAB2023b
 
 ## Electrical Motor Category
 1. Brushed DC Motor
